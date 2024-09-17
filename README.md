@@ -23,16 +23,16 @@ As a dedicated frontend developer, I specialize in crafting visually stunning an
 
 ## 🏅 Skills
 ![Skill](skills.jpg)
-**1. HTML**
-**2. CSS**
-**3. JavaScript**
-**4. Responsive Design**
-**5. Version Control**
+1. **HTML**
+2. **CSS**
+3. **JavaScript**
+4. **Responsive Design**
+5. **Version Control**
 
 ## 🏆 Rating
-Below is the ratings of the skills for total grade of 5.
+Below is the knowledge of the skills for total grade of 5.
 
-| SKILL      |   RATING     |
+| SKILL      |   KNOWLDEGE     |
 |----------- |------------- |
 | HTML       |    4.8       |
 | CSS        |    4.6       |
