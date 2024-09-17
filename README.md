@@ -37,8 +37,8 @@ Below is the knowledge of the skills for total grade of 5.
 | HTML              |        4.8          |
 | CSS               |        4.6          |
 | JavaScript        |        4.5          |
-| Responsive Design |        4.5          |
-| Version Control   |        4.5          |
+| Responsive Design |        4.7          |
+| Version Control   |        4.4          |
 
 
 ## 💼 What I do
