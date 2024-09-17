@@ -48,4 +48,6 @@ Below is the ratings of the skills for total grade of 5.
 ## 📫 How to reach me: 
 ![Github](github.png)
 ![Discord](discord.png)
-![Instagram](instagram%20(1).png)
+![Instagram](instagram.png)
+![Facebook](facebook.png)
+![LinkedIn](linkedin.png)
