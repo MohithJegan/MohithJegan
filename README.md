@@ -39,5 +39,12 @@ Below is the ratings of the skills for total grade of 5.
 - Collaborate with designers and backend developers to create cohesive and innovative solutions
 - Continuously learn and implement the latest web technologies and best practices
 
+## Passion
+
+Passions:
+
+- Transforming creative ideas into functional code
+- Enhancing user experiences through thoughtful design and usability
+- Staying current with industry trends and emerging technologies
 
 ## Get in Touch
