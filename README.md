@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My Profile
+## 🧑‍💼 My Profile
 ![My Profile](profile.png)
 
-## Skills
+## 🏅 Skills
 ![Skill](skills.jpg)
 1. HTML
 2. CSS
 3. JavaScript
 
-## Rating
+## 🏆 Rating
 Below is the ratings of the skills for total grade of 5.
 
 | SKILL      |   RATING     |
@@ -33,13 +33,13 @@ Below is the ratings of the skills for total grade of 5.
 | JavaScript |    4.5       |
 
 
-## What I do
+## 💼 What I do
 
 - Develop dynamic, user-centered web applications and interfaces
 - Collaborate with designers and backend developers to create cohesive and innovative solutions
 - Continuously learn and implement the latest web technologies and best practices
 
-## Passion
+## ❤️ Passion
 
 - Transforming creative ideas into functional code
 - Enhancing user experiences through thoughtful design and usability
