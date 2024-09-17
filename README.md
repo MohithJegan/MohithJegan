@@ -33,4 +33,11 @@ Below is the ratings of the skills for total grade of 5.
 | JavaScript |    4.5       |
 
 
+## What I do
+
+- Develop dynamic, user-centered web applications and interfaces
+- Collaborate with designers and backend developers to create cohesive and innovative solutions
+- Continuously learn and implement the latest web technologies and best practices
+
+
 ## Get in Touch
