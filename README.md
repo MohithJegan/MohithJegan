@@ -41,10 +41,8 @@ Below is the ratings of the skills for total grade of 5.
 
 ## Passion
 
-Passions:
-
 - Transforming creative ideas into functional code
 - Enhancing user experiences through thoughtful design and usability
 - Staying current with industry trends and emerging technologies
 
-## Get in Touch
+## 📫 How to reach me: 
