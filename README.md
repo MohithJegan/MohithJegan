@@ -46,4 +46,6 @@ Below is the ratings of the skills for total grade of 5.
 - Staying current with industry trends and emerging technologies
 
 ## 📫 How to reach me: 
-![jjj](github.png)
+![Github](github.png)
+![Discord](discord.png)
+![Instagram](instagram.png)
