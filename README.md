@@ -46,3 +46,4 @@ Below is the ratings of the skills for total grade of 5.
 - Staying current with industry trends and emerging technologies
 
 ## 📫 How to reach me: 
+![Instagram](instagram.png)
