@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![My Profile](profile.png)
 
 ## Skills
+![Skill](skills.jpg)
 1. HTML
 2. CSS
 3. JavaScript
