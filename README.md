@@ -46,8 +46,8 @@ Below is the ratings of the skills for total grade of 5.
 - Staying current with industry trends and emerging technologies
 
 ## 📫 How to reach me: 
-[![Github](github.png)](https://github.com/MohithJegan)  
-[![Discord](discord.png)](https://discord.com/channels/@me)  
-[![Instagram](instagram.png)](https://www.instagram.com/)  
-[![Facebook](facebook.png)](https://www.facebook.com/)  
-[![LinkedIn](linkedin.png)](https://ca.linkedin.com/)  
+[![Github](github.png)](https://github.com/MohithJegan) 
+[![Discord](discord.png)](https://discord.com/channels/@me) 
+[![Instagram](instagram.png)](https://www.instagram.com/) 
+[![Facebook](facebook.png)](https://www.facebook.com/) 
+[![LinkedIn](linkedin.png)](https://ca.linkedin.com/) 
