@@ -1,5 +1,4 @@
-![Main](main.png)
-## Hi there 👋 from Mohith !
+<center>## Hi there 👋 from Mohith !</center>
 
 <!--
 **MohithJegan/MohithJegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
