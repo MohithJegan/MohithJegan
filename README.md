@@ -32,7 +32,7 @@ As a dedicated frontend developer, I specialize in crafting visually stunning an
 ## 🏆 Rating
 Below is the knowledge of the skills for total grade of 5.
 
-| SKILL             |   KNOWLDEGE         |
+| SKILL             |   KNOWLEDGE         |
 |------------------ |-------------------- |
 | HTML              |        4.8          |
 | CSS               |        4.6          |
