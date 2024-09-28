@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## 🧑‍💼 My Profile
+
 ![My Profile](profile.png)
 
 ## Frontend Developer | UI/UX Specialist | Web Enthusiast
@@ -22,24 +24,26 @@ Here are some ideas to get you started:
 As a dedicated frontend developer, I specialize in crafting visually stunning and highly functional web applications that enhance user experiences. With a strong foundation in **HTML, CSS, and JavaScript**, and proficiency in modern frameworks like **React and Angular**, I bring both _technical expertise_ and _creative flair_ to every project.
 
 ## 🏅 Skills
+
 ![Skill](skills.jpg)
+
 1. **HTML**
 2. **CSS**
 3. **JavaScript**
 4. **Responsive Design**
 5. **Version Control**
 
-## 🏆 Rating
+## 🏆 Strength
+
 Below is the knowledge of the skills for total grade of 5.
 
-| SKILL             |   KNOWLEDGE         |
-|------------------ |-------------------- |
-| HTML              |        4.8          |
-| CSS               |        4.6          |
-| JavaScript        |        4.5          |
-| Responsive Design |        4.7          |
-| Version Control   |        4.4          |
-
+| SKILL             | EXPERIENCE (IN MONTH) |
+| ----------------- | --------------------- |
+| HTML              | 2.5                   |
+| CSS               | 2                     |
+| JavaScript        | 1.75                  |
+| Responsive Design | 1.5                   |
+| Version Control   | 1                     |
 
 ## 💼 What I do
 
@@ -53,9 +57,10 @@ Below is the knowledge of the skills for total grade of 5.
 - Enhancing user experiences through thoughtful design and usability
 - Staying current with industry trends and emerging technologies
 
-## 📫 How to reach me: 
-[![Github](github.png)](https://github.com/MohithJegan) 
-[![Discord](discord.png)](https://discord.com/channels/@me) 
-[![Instagram](instagram.png)](https://www.instagram.com/) 
-[![Facebook](facebook.png)](https://www.facebook.com/) 
-[![LinkedIn](linkedin.png)](https://ca.linkedin.com/) 
+## 📫 How to reach me:
+
+[![Github](github.png)](https://github.com/MohithJegan)
+[![Discord](discord.png)](https://discord.com/channels/@me)
+[![Instagram](instagram.png)](https://www.instagram.com/)
+[![Facebook](facebook.png)](https://www.facebook.com/)
+[![LinkedIn](linkedin.png)](https://ca.linkedin.com/)
