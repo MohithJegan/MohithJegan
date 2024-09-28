@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![My Profile](profile.png)
 
-## Frontend Developer | UI/UX Specialist | Web Enthusiast
+## 👨‍💻 Frontend Developer | UI/UX Specialist | Web Enthusiast
 
 As a dedicated frontend developer, I specialize in crafting visually stunning and highly functional web applications that enhance user experiences. With a strong foundation in **HTML, CSS, and JavaScript**, and proficiency in modern frameworks like **React and Angular**, I bring both _technical expertise_ and _creative flair_ to every project.
 
