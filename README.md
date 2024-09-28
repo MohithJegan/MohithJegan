@@ -33,7 +33,7 @@ As a dedicated frontend developer, I specialize in crafting visually stunning an
 4. **Responsive Design**
 5. **Version Control**
 
-## 🏆 Strength
+## ⚡ Strength
 
 Below is the experience of the skills for total grade of 5.
 
