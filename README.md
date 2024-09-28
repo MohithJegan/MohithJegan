@@ -35,7 +35,7 @@ As a dedicated frontend developer, I specialize in crafting visually stunning an
 
 ## 🏆 Strength
 
-Below is the knowledge of the skills for total grade of 5.
+Below is the experience of the skills for total grade of 5.
 
 | SKILL             | EXPERIENCE (IN MONTH) |
 | ----------------- | --------------------- |
