@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧑‍💼 My Profile
 
-![My Profile](profile.png)
 
 ## 👨‍💻 Frontend Developer | UI/UX Specialist | Web Enthusiast
 
