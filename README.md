@@ -31,18 +31,6 @@ As a dedicated frontend developer, I specialize in crafting visually stunning an
 4. **Responsive Design**
 5. **Version Control**
 
-## ⚡ Strength
-
-Below is the experience of the skills for total grade of 5.
-
-| SKILL             | EXPERIENCE (IN MONTH) |
-| ----------------- | --------------------- |
-| HTML              | 2.5                   |
-| CSS               | 2                     |
-| JavaScript        | 1.75                  |
-| Responsive Design | 1.5                   |
-| Version Control   | 1                     |
-
 ## 💼 What I do
 
 - Develop dynamic, user-centered web applications and interfaces
@@ -58,7 +46,4 @@ Below is the experience of the skills for total grade of 5.
 ## 📫 How to reach me:
 
 [![Github](github.png)](https://github.com/MohithJegan)
-[![Discord](discord.png)](https://discord.com/channels/@me)
-[![Instagram](instagram.png)](https://www.instagram.com/)
-[![Facebook](facebook.png)](https://www.facebook.com/)
-[![LinkedIn](linkedin.png)](https://ca.linkedin.com/)
+[![LinkedIn](linkedin.png)](https://linkedin.com/in/mohith-krishnamoorthy-jeganathan-aa7668150)
